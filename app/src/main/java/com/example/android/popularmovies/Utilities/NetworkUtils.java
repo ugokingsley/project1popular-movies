@@ -10,7 +10,7 @@ import java.net.URL;
 import java.util.Scanner;
 
 /**
- * Created by AGWU SMART ELEZUO on 4/8/2017.
+ * Created by Ugochukwu on 4/18/2017.
  */
 
 public class NetworkUtils {
