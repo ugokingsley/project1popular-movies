@@ -17,7 +17,7 @@ import org.json.JSONObject;
 import static android.R.attr.data;
 
 /**
- * Created by AGWU SMART ELEZUO on 4/8/2017.
+ * Created by ugochukwu on 4/18/2017.
  */
 
 public class MoviesAdapter extends RecyclerView.Adapter<MoviesAdapter.MoviesAdapterviewHolder> {
