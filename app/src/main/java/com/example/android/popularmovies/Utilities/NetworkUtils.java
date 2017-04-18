@@ -20,7 +20,7 @@ public class NetworkUtils {
     private static final String API_KEY = "api_key";
 
     //Enter your themoviedb.com api key here
-    private static final String API_KEY_VALUE = "90385761939d34fd165bf2842a7d9fc3";
+    private static final String API_KEY_VALUE = "my_api_key";
     private static Uri uri;
 
     public static URL buildUrl(String category){
